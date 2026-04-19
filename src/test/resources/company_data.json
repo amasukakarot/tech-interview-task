@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Alice",
+    "department": "Engineering",
+    "role": "Developer",
+    "salary": 5000,
+    "yearsOfExperience": "5"
+  },
+  {
+    "name": "Bob",
+    "department": "Engineering",
+    "role": "Developer",
+    "salary": 10000,
+    "yearsOfExperience": 8
+  },
+  {
+    "name": "Charlie",
+    "department": "Sales",
+    "role": "Rep",
+    "salary": 20000,
+    "yearsOfExperience": 2
+  },
+  {
+    "name": "Diana",
+    "department": "Marketing",
+    "role": "Manager",
+    "salary": 30000,
+    "yearsOfExperience": 12
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Alice",
+    "department": "Engineering",
+    "role": "Developer",
+    "salary": 95365.74,
+    "yearsOfExperience": "5"
+  },
+  {
+    "name": "Bob",
+    "department": "Engineering",
+    "role": "Developer",
+    "salary": 95000,
+    "yearsOfExperience": 8
+  },
+  {
+    "name": "Charlie",
+    "department": "Sales",
+    "role": "Rep",
+    "salary": 70000,
+    "yearsOfExperience": 2
+  },
+  {
+    "name": "Diana",
+    "department": "Marketing",
+    "role": "Manager",
+    "salary": 110000,
+    "yearsOfExperience": 12
+  },
+  {
+    "name": "Eddie",
+    "department": "Sales",
+    "role": "Rep",
+    "salary": 72000.53,
+    "yearsOfExperience": 3
+  },
+  {
+    "name": "Frank",
+    "department": "Engineering",
+    "role": "Engineering Manager",
+    "salary": 125000,
+    "yearsOfExperience": 15
+  },
+  {
+    "name": "Gina",
+    "department": "Marketing",
+    "role": "Intern",
+    "salary": 35350.50,
+    "yearsOfExperience": 0
+  }
+]
