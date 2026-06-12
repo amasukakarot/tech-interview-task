@@ -49,8 +49,9 @@ public class SolutionsMain {
     }
 
     /**
-     * CHALLENGE 1: Total Salary (Aggregation)
-     * Calculate the sum of all salaries in the list
+     * CHALLENGE 4: Grouping by Role
+     * Return a Map where the key is the role (e.g. "Developer")
+     * an the value is a list of employees with that role.
      */
     public Map<String, List<Employee>> groupEmployeesByRole(List<Employee> employees) {
         return Map.of();
